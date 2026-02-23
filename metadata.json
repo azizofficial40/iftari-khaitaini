@@ -1,0 +1,5 @@
+{
+  "name": "Iftari Khaitaini",
+  "description": "A responsive web app to map Iftar distribution locations in Sylhet Division, Bangladesh.",
+  "requestFramePermissions": ["geolocation"]
+}

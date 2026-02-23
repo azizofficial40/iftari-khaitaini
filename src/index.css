@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans Bengali", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-ramadan-green: #006400;
+  --color-ramadan-gold: #FFD700;
+  --color-ramadan-cream: #FFFDD0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8f9fa;
+}
